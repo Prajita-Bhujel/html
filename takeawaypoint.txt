@@ -1,0 +1,17 @@
+format documnet with
+       install prettier extension
+       right click format document with configure default format>> prettier
+       go to setting>> setting>> search format on save click>> format on save
+       ctrl s
+
+
+
+block element 
+always starts from new line
+consumes while horizental space. Eg:<p> </p>
+
+
+inline elements
+starts from avilable spaceconsume space as much as it required Eg: span tag, a
+
+
